@@ -9,7 +9,7 @@ class AssessmentSerializer(serializers.ModelSerializer):
             'course', 
             'name', 
             'email', 
-            'comments', 
+            'comment', 
             'assessment', 
             'active', 
             'created_at'
